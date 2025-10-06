@@ -1,0 +1,2 @@
+# BotOrNot
+kaggle competition solution
