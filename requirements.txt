@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+emoji
+lightgbm
+xgboost
+catboost
+joblib
